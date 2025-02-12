@@ -1,0 +1,3 @@
+../Src/RCC.c:17:6:RCC_voidInitSysClock	1
+../Src/RCC.c:70:6:RCC_voidEnableClock	6
+../Src/RCC.c:90:6:RCC_voidDisableClock	6

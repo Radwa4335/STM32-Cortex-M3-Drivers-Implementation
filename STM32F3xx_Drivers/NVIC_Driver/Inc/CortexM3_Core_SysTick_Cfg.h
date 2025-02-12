@@ -1,0 +1,9 @@
+
+#ifndef CORTEXM3_CORE_SYSTICK_CFG_H_
+#define CORTEXM3_CORE_SYSTICK_CFG_H_
+
+ #define SYSTICK_CLOCK_SOURCE_DIV_1             0U
+ #define SYSTICK_CLOCK_SOURCE_DIV_8             1U
+ #define SYSTICK_CLOCK_SOURCE                   (SYSTICK_CLOCK_SOURCE_DIV_8)
+
+#endif /* CORTEXM3_CORE_SYSTICK_CFG_H_ */

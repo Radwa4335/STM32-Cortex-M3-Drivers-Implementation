@@ -1,0 +1,2 @@
+../Src/SCB.c:8:6:SCB_SetPriorityGrouping	24	static
+../Src/SCB.c:20:10:SCB_GetPriorityGrouping	4	static

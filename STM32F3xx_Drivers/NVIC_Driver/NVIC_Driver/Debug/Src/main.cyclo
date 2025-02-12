@@ -1,0 +1,8 @@
+../Src/main.c:48:6:SysTickFun_1	1
+../Src/main.c:56:5:main	1
+../Src/main.c:117:6:USART3_IRQHandler	1
+../Src/main.c:123:6:CAN_TX	1
+../Src/main.c:138:7:CAN_RX	1
+../Src/main.c:146:6:CAN_RxFifo0MsgPendingCallback	1
+../Src/main.c:152:6:CAN_FilterConfig	1
+../Src/main.c:168:6:CAN_Interrupt	1

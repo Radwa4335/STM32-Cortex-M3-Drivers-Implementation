@@ -1,0 +1,6 @@
+../Src/FPEC.c:24:13:FPEC_voidFlashUnlock	4	static
+../Src/FPEC.c:30:6:FPEC_voidInit	4	static
+../Src/FPEC.c:35:6:FPEC_voidFlashWrite	32	static
+../Src/FPEC.c:63:6:FPEC_voidFlashWriteHalfWord	16	static
+../Src/FPEC.c:87:6:FPEC_voidFlashPageErase	16	static
+../Src/FPEC.c:112:6:FPEC_voidEraseAppArea	24	static
