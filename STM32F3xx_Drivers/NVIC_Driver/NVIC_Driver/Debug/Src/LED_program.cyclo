@@ -1,3 +1,0 @@
-../Src/LED_program.c:17:6:LED_voidLed_ON	1
-../Src/LED_program.c:23:6:LED_voidLed_OFF	1
-../Src/LED_program.c:29:6:LED_voidLed_Toggle	1

@@ -1,2 +1,0 @@
-../Src/AFIO_program.c:18:6:AFIO_voidSetEXTIConfiguration	24	static
-../Src/AFIO_program.c:31:6:AFIO_voidRemapPeripheralPins	16	static
